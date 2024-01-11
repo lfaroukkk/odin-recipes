@@ -1,0 +1,30 @@
+* {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgba(155, 74, 23, 0.901);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.links {
+    list-style: none;
+}
+
+a {
+    color: rgba(155, 74, 23, 0.901);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.link {
+    margin-bottom: 10px;
+}
