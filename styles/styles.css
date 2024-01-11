@@ -37,6 +37,10 @@ a {
     font-weight: 500;
 }
 
+a:hover {
+    color: #657c40;
+}
+
 .link {
     margin-bottom: 10px;
     text-align: left;
